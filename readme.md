@@ -1,4 +1,5 @@
 # A Library for Benchmark Training of Graph Neural Networks (GNNs) Based on [DGL](https://github.com/dmlc/dgl).
+An alternative implementation of [https://github.com/LUOyk1999/tunedGNN](https://github.com/LUOyk1999/tunedGNN)
 
 ## Dependencies
 - torch(2.2.1)
